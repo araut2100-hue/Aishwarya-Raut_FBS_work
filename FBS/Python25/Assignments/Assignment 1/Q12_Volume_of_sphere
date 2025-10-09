@@ -1,0 +1,4 @@
+radius = int(input("enter radius :"))
+
+Volume_sphere=(4/3)*(22/7)*(radius**3)
+print(f'Volume of Sphere is {Volume_sphere}')
